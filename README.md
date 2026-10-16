@@ -1,3 +1,7 @@
+### This is a fork of EweSticker with a changed package name, to bypass detection by banking and other apps (like Teams in enterprise phones) that refuse to work when a 3P keyboard is installed
+### This fork will be kept up to date with the original repo. The only two changes that have been made are these:
+      - Change in the application ID.
+      - Using GitHub actions to generate the build and upload the same as a release.
 
 <img src="metadata/en-US/images/featureGraphic.png" alt="Feature Graphic" width="">
 
