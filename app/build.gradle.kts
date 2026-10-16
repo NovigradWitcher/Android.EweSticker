@@ -34,7 +34,7 @@ tasks.register("genDocs") {
 android {
 	compileSdk = 35
 	buildToolsVersion = "35.0.0"
-	namespace = "com.fredhappyface.ewesticker"
+	namespace = "com.samsung.android.honeyboard"
 
 	kotlinOptions {
 		jvmTarget = "17"
